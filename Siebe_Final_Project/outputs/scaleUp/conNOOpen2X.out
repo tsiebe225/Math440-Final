@@ -1,0 +1,41 @@
+Seconds:     13911.8
+Seconds:     13912
+Seconds:     13912
+Seconds:     13912.3
+Seconds:     13912.6
+Seconds:     13912.9
+Seconds:     13913
+Seconds:     13913.1
+Seconds:     13913.1
+Seconds:     13913
+Seconds:     13913.1
+Seconds:     13913.6
+Seconds:     13913.6
+Seconds:     13913.7
+Seconds:     13914.3
+Seconds:     13914.6
+Seconds:     13916
+Seconds:     13916.5
+Seconds:     13924.3
+Seconds:     13938.6
+Seconds:     13956
+Seconds:     14069.7
+Seconds:     14131.4
+Seconds:     14140.6
+Seconds:     14140.6
+Seconds:     14140.6
+Seconds:     14553
+Seconds:     14553.3
+Seconds:     14553.3
+Using OpenMP and MPI the following values were obtained: 
+The min value of a call using a stochastic method is: 0.080039
+The max value of a call using a stochastic method is: 10.4506
+The min value of a put using a stochastic method is: 0.079539
+The max value of a put using a stochastic method is: 5.57352
+The min value of a call using the monte carlo method is: 0.0800201
+The max value of a call using the monte carlo method is: 10.4989
+The min value of a put using the monte carlo method is: 0.0795511
+The max value of a put using the monte carlo method is: 5.61107
+Seconds:     14554.4
+Seconds:     14554.4
+Seconds:     14554.4

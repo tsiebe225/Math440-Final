@@ -1,0 +1,24 @@
+Seconds:     92755.2
+Seconds:     92878.8
+Seconds:     92878.8
+Seconds:     92882
+Seconds:     92882
+Seconds:     92902
+Seconds:     92916.2
+Seconds:     92917.3
+Seconds:     93007.2
+Seconds:     93007.2
+Seconds:     93294.2
+Seconds:     93294.2
+Seconds:     93380
+Seconds:     93380.1
+The min value of a call using a stochastic method is: 0.080039
+The max value of a call using a stochastic method is: 10.4506
+The min value of a put using a stochastic method is: 0.079539
+The max value of a put using a stochastic method is: 5.57352
+The min value of a call using the monte carlo method is: 0.079974
+The max value of a call using the monte carlo method is: 10.5037
+The min value of a put using the monte carlo method is: 0.0793703
+The max value of a put using the monte carlo method is: 5.60474
+Seconds:     93812.6
+Seconds:     93812.6

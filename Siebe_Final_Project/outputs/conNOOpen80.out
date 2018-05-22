@@ -1,0 +1,89 @@
+Seconds:     2245.8
+Seconds:     2245.91
+Seconds:     2246.19
+Seconds:     2246.23
+Seconds:     2246.42
+Seconds:     2246.53
+Seconds:     2246.49
+Seconds:     2246.62
+Seconds:     2246.62
+Seconds:     2246.8
+Seconds:     2246.69
+Seconds:     2246.83
+Seconds:     2247.02
+Seconds:     2247.03
+Seconds:     2246.97
+Seconds:     2246.93
+Seconds:     2247.07
+Seconds:     2247.12
+Seconds:     2247.29
+Seconds:     2247.39
+Seconds:     2247.41
+Seconds:     2247.46
+Seconds:     2247.5
+Seconds:     2247.64
+Seconds:     2247.53
+Seconds:     2248.08
+Seconds:     2247.77
+Seconds:     2247.68
+Seconds:     2248.04
+Seconds:     2248.17
+Seconds:     2248.22
+Seconds:     2247.94
+Seconds:     2248.13
+Seconds:     2248.26
+Seconds:     2248.2
+Seconds:     2248.48
+Seconds:     2248.18
+Seconds:     2248.35
+Seconds:     2248.55
+Seconds:     2248.41
+Seconds:     2249.13
+Seconds:     2251.8
+Seconds:     2251.9
+Seconds:     2251.8
+Seconds:     2260.7
+Seconds:     2260.76
+Seconds:     2260.86
+Seconds:     2260.72
+Seconds:     2260.77
+Seconds:     2262.59
+Seconds:     2280.13
+Seconds:     2280.21
+Seconds:     2280.39
+Seconds:     2288.67
+Seconds:     2289.1
+Seconds:     2289.02
+Seconds:     2301.86
+Seconds:     2302.29
+Seconds:     2302.51
+Seconds:     2302.62
+Seconds:     2302.51
+Seconds:     2302.56
+Seconds:     2305.18
+Seconds:     2305.18
+Seconds:     2335.55
+Seconds:     2335.94
+Seconds:     2336.57
+Seconds:     2336.56
+Seconds:     2336.6
+Seconds:     2336.76
+Seconds:     2336.73
+Seconds:     2336.8
+Seconds:     2337.7
+Seconds:     2337.81
+Seconds:     2341
+Seconds:     2341.22
+Using OpenMP and MPI the following values were obtained: 
+The min value of a call using a stochastic method is: 0.080039
+The max value of a call using a stochastic method is: 10.4506
+The min value of a put using a stochastic method is: 0.079539
+The max value of a put using a stochastic method is: 5.57352
+The min value of a call using the monte carlo method is: 0.0800181
+The max value of a call using the monte carlo method is: 10.4984
+The min value of a put using the monte carlo method is: 0.0795072
+The max value of a put using the monte carlo method is: 5.60025
+Seconds:     2359.63
+Seconds:     2359.64
+Seconds:     2359.65
+Seconds:     2359.65

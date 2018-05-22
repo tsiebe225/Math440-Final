@@ -1,0 +1,15 @@
+compiler = mpiCC -std=c++0x
+hycompiler = mpiCC -qopenmp -std=c++0x 
+regular = mainNO.cpp
+mainOpen = mainOpen.cpp
+
+all: mainNO_exe mainOpen_exe
+
+mainNO_exe: $(regular)
+	$(compiler)	$(regular)	-o	$@
+
+mainOpen_exe: $(mainOpen)
+	$(hycompiler)	$(mainOpen)	-o	$@
+
+clean:
+	rm *_exe *.mod

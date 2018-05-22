@@ -1,0 +1,105 @@
+Seconds:     1890.7
+Seconds:     1889.41
+Seconds:     1890.94
+Seconds:     1889.58
+Seconds:     1889.67
+Seconds:     1891.17
+Seconds:     1891.29
+Seconds:     1891.21
+Seconds:     1891.21
+Seconds:     1889.73
+Seconds:     1889.85
+Seconds:     1891.4
+Seconds:     1890.19
+Seconds:     1890.33
+Seconds:     1892.46
+Seconds:     1892.46
+Seconds:     1892.17
+Seconds:     1894.75
+Seconds:     1894.73
+Seconds:     1895.54
+Seconds:     1894.23
+Seconds:     1894.59
+Seconds:     1903.35
+Seconds:     1908.64
+Seconds:     1908.64
+Seconds:     1917.09
+Seconds:     1924.82
+Seconds:     1924.82
+Seconds:     1924.85
+Seconds:     1936.95
+Seconds:     1937.05
+Seconds:     1937.04
+Seconds:     2018.85
+Seconds:     2018.85
+Seconds:     2019.24
+Seconds:     2019.39
+Seconds:     2019.48
+Seconds:     2019.57
+Seconds:     2019.51
+Seconds:     2019.57
+Seconds:     2019.59
+Seconds:     2019.7
+Seconds:     2019.8
+Seconds:     2019.8
+Seconds:     2019.78
+Seconds:     2019.93
+Seconds:     2019.93
+Seconds:     2019.96
+Seconds:     2019.93
+Seconds:     2020.05
+Seconds:     2020.03
+Seconds:     2020.13
+Seconds:     2020.21
+Seconds:     2020.32
+Seconds:     2020.27
+Seconds:     2020.39
+Seconds:     2020.52
+Seconds:     2020.57
+Seconds:     2020.5
+Seconds:     2020.51
+Seconds:     2020.45
+Seconds:     2020.44
+Seconds:     2020.59
+Seconds:     2020.64
+Seconds:     2021.23
+Seconds:     2021.46
+Seconds:     2021.48
+Seconds:     2021.85
+Seconds:     2021.82
+Seconds:     2022.27
+Seconds:     2022.35
+Seconds:     2022.49
+Seconds:     2024.04
+Seconds:     2024.1
+Seconds:     2024.12
+Seconds:     2024.5
+Seconds:     2024.45
+Seconds:     2024.5
+Seconds:     2025.16
+Seconds:     2028.25
+Seconds:     2028.21
+Seconds:     2028.89
+Seconds:     2031.61
+Seconds:     2031.62
+Seconds:     2031.62
+Seconds:     2032.03
+Seconds:     2037.66
+Seconds:     2037.66
+Seconds:     2038.19
+Seconds:     2038.19
+Seconds:     2038.22
+Seconds:     2038.28
+Seconds:     2038.25
+Seconds:     2042.75
+Using OpenMP and MPI the following values were obtained: 
+The min value of a call using a stochastic method is: 0.080039
+The max value of a call using a stochastic method is: 10.4502
+The min value of a put using a stochastic method is: 0.079539
+The max value of a put using a stochastic method is: 5.57341
+The min value of a call using the monte carlo method is: 0.0795778
+The max value of a call using the monte carlo method is: 10.4918
+The min value of a put using the monte carlo method is: 0.079102
+The max value of a put using the monte carlo method is: 5.59933
+Seconds:     2067.58
+Seconds:     2067.67
